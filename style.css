@@ -1,0 +1,35 @@
+.cont1{
+	height: 180px;
+	width: 180px;
+	background-color: blue;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+border: 2px solid black;
+}
+.cont2{
+	height: 180px;
+	width: 180px;
+	background-color: brown;
+position: absolute;
+border: 2px solid black;
+right:0;
+top: 0;
+}
+.cont3{
+	height: 180px;
+	width: 180px;
+	background-color: red;
+	position: absolute;
+	left:0;
+	top: 0px;
+}
+.cont4{
+	height: 180px;
+	width: 180px;
+	background-color: peru;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	
+}
